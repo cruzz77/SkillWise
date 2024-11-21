@@ -5,6 +5,7 @@
 
 https://github.com/user-attachments/assets/f52272a5-0d62-4812-8700-bdb07ab21a57
 
+<img src="https://github.com/AryanVBW/kali-Linux-Android/releases/download/1/removebackground.png" height="80">
 
 <br>
 <img src='./readme-images/desktop.png'>
